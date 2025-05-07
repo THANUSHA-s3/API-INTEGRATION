@@ -1,5 +1,10 @@
 # API-INTEGRATION
 CODTECH Task 1: Weather app with live data using public weather API
+NAME :S THANUSHA
+DOMAIN :Full Stack Web Development 
+INTERN ID :CT12DL715
+COMPANY :CODTECH IT SOLUTIONS
+
 ## 📌 Features
 
 - 🔍 Search weather by city name
