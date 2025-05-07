@@ -29,4 +29,7 @@
 - Replace `"YOUR_API_KEY"` in `script.js` with your own key
 ```javascript
 const apiKey = "YOUR_API_KEY"; // <-- Replace this
-demonstrate the code of index.html file,style.css file and in script.js you need you add the given api code 
+demonstrate the code of index.html file,style.css file and in script.js you need add the given api code and make sure to save the file index.html not (.txt) once you have saved the file double click on the index.html automatically open the Weather App and you can enter the city and find the Weather 
+
+OUTPUT :
+![Image](https://github.com/user-attachments/assets/0bbdbbbb-1061-4999-a605-6119a82f2e5d)
